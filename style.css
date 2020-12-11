@@ -115,7 +115,7 @@
   display: flex;
   align-items: center;
   position: absolute;
-  padding-top: 24px;
+  /*padding-top: 24px;*/
   top: 32px;
   right: 49px;
   width: 25px;
@@ -195,7 +195,8 @@
   }
 
   .header {
-    top: 24px;
+    padding: 0 0 0 0;
+    margin-top: 24px;
     margin-bottom: 28px;
   }
 
