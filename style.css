@@ -115,7 +115,6 @@
   display: flex;
   align-items: center;
   position: absolute;
-  /*padding-top: 24px;*/
   top: 32px;
   right: 49px;
   width: 25px;
@@ -142,7 +141,6 @@
   top: 8px;
 }
 
-/* контейнер меню */
 .menu__box {
   display: block;
   position: fixed;
@@ -158,7 +156,7 @@
   background-color: #fff;
   box-shadow: 1px 0px 6px rgba(0, 0, 0, .2);
 }
-/* элементы меню */
+
 .menu__item {
   display: block;
   top: 186px;
